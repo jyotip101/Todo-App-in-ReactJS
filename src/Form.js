@@ -1,7 +1,6 @@
 import React from 'react'
 
 import './style.css'
-import './fontawesome-free-5.15.2-web/css/all.css'
 
 const Form = ({setInputText, inputText, todos, setTodos, setStatus}) =>{
 
