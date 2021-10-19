@@ -1,5 +1,7 @@
 ## Todo App in React
 
+#### Preview at [Todo App](https://jyotip101.github.io/Todo-App-in-ReactJS/) 
+
 You can clone and run this app in your system by using the following commands:
 
 step 1 : `get clone`
