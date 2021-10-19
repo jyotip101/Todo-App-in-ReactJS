@@ -1,4 +1,5 @@
-{ 
+{  
+"homepage": "http://jyotip101.github.io/Todo-App-in-ReactJS",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
