@@ -1,7 +1,7 @@
 import React, {useState, useEffect} from 'react' 
 
-import TodoItems from './TodoItems' 
-import Form from './Form'
+import TodoItems from './componrnts/TodoItems' 
+import Form from './componrnts/Form'
 
 import './style.css'
   
