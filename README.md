@@ -14,7 +14,7 @@
 
 ## Demo
 
-[Todo App](https://jyotip101.github.io/Todo-App-in-ReactJS)  
+[Todo App](https://thejyotipatel.github.io/Todo-App-in-ReactJS)  
 
 <!-- OVERVIEW -->
 
